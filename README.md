@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/avatar.png" width="160" alt="gemini-vibe avatar" />
+  <img src="./assets/gemini-logo.svg" width="110" alt="Gemini" />
 </p>
 
 <h1 align="center">gemini-vibe（Gemini 人味儿）</h1>
@@ -28,7 +28,7 @@
 gemini-vibe/
 ├── SKILL.md                       # 核心规范（含禁令清单、动态篇幅阶梯、6 组语感锚点）
 ├── assets/
-│   └── avatar.png                 # Skill 专属头像
+│   └── gemini-logo.svg            # Gemini 标识图标
 ├── examples/
 │   └── before-after.md            # 7 组真实对比案例（AI 腔 vs 活人表达）
 └── references/
